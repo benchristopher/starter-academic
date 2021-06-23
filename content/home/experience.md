@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Work Experience
+    company: Amigo Technology
+    company_url: 'https://amigotechnology.com.au/'
+    company_logo: org-at
+    location: Ninderry, Sunshine Coast
+    date_start: '2021-03-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Partaking in various information technology projects.
+        * Diagnosing and resolving computer issues both physical and virtual. 
+        * Monitoring and responding quickly and effectively to requests received through the IT helpdesk.
+        * Documenting internal procedures and assisting with onboarding.
+        * Creating and configuring networks + physical setup of devices, (routers, etc.)
+
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Stock Manager / Team Leader
+    company: Pillow Talk
+    company_url: 'https://www.pillowtalk.com.au/'
+    company_logo: org-pt
+    location: Noosa, Sunshine Coast
+    date_start: '2020-10-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Responsible for stock management functions, such as adjustments, discrepancies, scanning & counting, in addition to supervisory duties.
+        * Delivering friendly and informative assistance to sales associates and managers that encourage best practices in team communication, project planning, operational excellence, and teamwork.
+        * Providing daily direction and communication to employees so that customer service issues are answered in a timely, efficient and knowledgeable manner. 
+        * Creating and maintaining a high-quality work environment so team members are motivated to perform at their highest level.
+  
 
 design:
   columns: '2'
