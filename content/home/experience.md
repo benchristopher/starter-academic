@@ -25,6 +25,7 @@ experience:
   - title: Work Experience
     company: Amigo Technology
     company_url: 'https://amigotechnology.com.au/'
+    company_logo:
     location: Ninderry, Sunshine Coast
     date_start: '2021-03-01'
     date_end: ''
@@ -41,10 +42,11 @@ experience:
   - title: Stock Manager / Team Leader
     company: Pillow Talk
     company_url: 'https://www.pillowtalk.com.au/'
+    company_logo:
     location: Noosa, Sunshine Coast
     date_start: '2020-10-01'
     date_end: ''
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * Responsible for stock management functions, such as adjustments, discrepancies, scanning & counting, in addition to supervisory duties.
