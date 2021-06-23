@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 75%
   icon: desktop
   icon_pack: fas
-  name: Hardware & OS
-- description: 100%
+  name: Hardware
+- description: 90%
   icon: network-wired
   icon_pack: fas
   name: Networking
-- description: 10%
+- description: 25%
   icon: code
   icon_pack: fas
   name: Coding & OS
