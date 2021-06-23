@@ -46,7 +46,7 @@ experience:
     location: Noosa, Sunshine Coast
     date_start: '2020-10-01'
     date_end: ''
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Responsible for stock management functions, such as adjustments, discrepancies, scanning & counting, in addition to supervisory duties.
