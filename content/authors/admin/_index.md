@@ -6,7 +6,7 @@ title: Ben Christopher
 superuser: true
 
 # Role/position/tagline
-role: Test
+# role: Test
 
 # Organizations/Affiliations to show in About widget
 organizations:
