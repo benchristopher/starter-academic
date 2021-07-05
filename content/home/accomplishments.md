@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -31,7 +31,8 @@ item:
   organization_url: https://tafeqld.edu.au/
   title: Diploma of Information Technology Networking
   url: ""
-- date_end: ""
+- certificate_url: https://tafeqld.edu.au/courses/17941/diploma-of-information-technology-networking
+  date_end: ""
   date_start: "2018-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: Sunshine Beach State Highschool
