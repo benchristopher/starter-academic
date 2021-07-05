@@ -29,6 +29,7 @@ item:
   description: ""
   organization: TAFE QLD
   organization_url: https://tafeqld.edu.au/
+  organization_logo: tafe-qld
   company_logo: tafe-qld
   title: Diploma of Information Technology Networking
   url: ""
@@ -38,6 +39,7 @@ item:
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: Sunshine Beach State Highschool
   organization_url: https://sunshinebeachhigh.eq.edu.au/
+  organization_logo: sunshine-beach-state-highschool
   company_logo: sunshine-beach-state-highschool
   title: Certificate of Education
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
