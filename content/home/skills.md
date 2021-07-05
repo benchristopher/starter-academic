@@ -24,7 +24,7 @@ feature:
   icon: network-wired
   icon_pack: fas
   name: Networking
-- description: 25%
+- description: 50%
   icon: code
   icon_pack: fas
   name: Coding & OS
