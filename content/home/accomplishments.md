@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2018-01-01"
   description: The Queensland Certificate of Education (QCE) is Queensland's senior school qualification.
-  organization: Sunshine Beach State Highschool
+  organization: Sunshine-Beach-State-Highschool
   organization_url: https://sunshinebeachhigh.eq.edu.au/
   title: Certificate of Education
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
