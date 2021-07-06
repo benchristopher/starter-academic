@@ -27,10 +27,8 @@ item:
   date_end: ""
   date_start: "2020-01-01"
   description: "This qualification gives you the skills you need to provide responsive, high-level IT support as a network administrator."
-  organization: TAFE QLD
+  organization: tafe-qld
   organization_url: https://tafeqld.edu.au/
-  organization_logo: tafe-qld
-  company_logo: tafe-qld
   title: Diploma of Information Technology Networking
   url: ""
 - certificate_url: https://tafeqld.edu.au/courses/17941/diploma-of-information-technology-networking
@@ -39,8 +37,6 @@ item:
   description: The Queensland Certificate of Education (QCE) is Queensland's senior school qualification.
   organization: Sunshine Beach State Highschool
   organization_url: https://sunshinebeachhigh.eq.edu.au/
-  organization_logo: sunshine-beach-state-highschool
-  company_logo: sunshine-beach-state-highschool
   title: Certificate of Education
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   
