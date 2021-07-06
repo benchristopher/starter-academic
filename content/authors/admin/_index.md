@@ -58,7 +58,7 @@ email: "ben.christopher@outlook.com"
 highlight_name: false
 ---
 
-Ben Christopher is a IT Diploma graduate from TAFE QLD who is currently looking to break into the IT industry, in the meantime he works as a Stock Manager & Team Leader at Pillow Talk while learning and developing his skills at home and through work experience with companies such as Amigo Technology. His interests include networking, security, virtualization and programming.
+Ben Christopher is a self proclaimed computer lover and Diploma graduate from TAFE QLD who is currently looking to break into the IT industry, in the meantime he works as a Stock Manager & Team Leader at Pillow Talk while researching and developing his skills at home and through work experience with companies such as Amigo Technology. His main interests include networking, security, virtualization and programming although the list goes on.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
