@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2020-01-01"
   description: "This qualification gives you the skills you need to provide responsive, high-level IT support as a network administrator."
-  organization: tafe qld
+  organization: TAFE-QLD
   organization_url: https://tafeqld.edu.au/
   title: Diploma of Information Technology Networking
   url: ""
