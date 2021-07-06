@@ -6,7 +6,7 @@ title: Ben Christopher
 superuser: true
 
 # Role/position/tagline
-role: I.T Student
+role: IT Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -58,7 +58,7 @@ email: "ben.christopher@outlook.com"
 highlight_name: false
 ---
 
-Ben Christopher is a IT Diploma graduate of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ben Christopher is a IT Diploma graduate from TAFE QLD who is currently looking to break into the IT industry, in the meantime he works as a Stock Manager & Team Leader at Pillow Talk while learning and developing his skills at home and through work experience with companies such as Amigo Technology. His interests include networking, security, virtualization and programming.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
