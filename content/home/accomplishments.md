@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -24,7 +24,7 @@ date_format: 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://tafeqld.edu.au/courses/17941/diploma-of-information-technology-networking
-  date_end: ""
+  date_end: "2020-12-12"
   date_start: "2020-01-01"
   description: "This qualification gives you the skills you need to provide responsive, high-level IT support as a network administrator."
   organization: TAFE-QLD
@@ -32,7 +32,7 @@ item:
   title: Diploma of Information Technology Networking
   url: ""
 - certificate_url: https://tafeqld.edu.au/courses/17941/diploma-of-information-technology-networking
-  date_end: ""
+  date_end: "2018-12-12"
   date_start: "2018-01-01"
   description: The Queensland Certificate of Education (QCE) is Queensland's senior school qualification.
   organization: Sunshine-Beach-State-Highschool
